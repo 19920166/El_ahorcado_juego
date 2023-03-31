@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>ANDROID</item>
+        <item>ITVO</item>
+        <item>INFORMATICA</item>
+        <item>TICS</item>
+        <item>COMPUTADORA</item>
+        <item>JAVA</item>
+        <item>KOTLIN</item>
+        <item>JUEGO</item>
+        <item>AHORCADO</item>
+    </string-array>
+</resources>
